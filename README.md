@@ -8,8 +8,8 @@ Marcar como concluída: Marque as tarefas concluídas para melhor organização.
 Excluir tarefas: Remova tarefas desnecessárias ou concluídas.
 
 <h2>Tecnologias Utilizadas</h2>
-HTML5: Estrutura do aplicativo.
-CSS3: Estilização para um design amigável e responsivo.
+HTML5: Estrutura do aplicativo.<br>
+CSS3: Estilização para um design amigável e responsivo.<br>
 JavaScript: Funcionalidade para manipulação de tarefas.
 
 <h2>Como Usar</h2>
