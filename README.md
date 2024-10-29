@@ -13,7 +13,7 @@ CSS3: Estilização para um design amigável e responsivo.
 JavaScript: Funcionalidade para manipulação de tarefas.
 
 <h2>Como Usar</h2>
-Clone o repositório.
+<p>Clone o repositório.</p>
 bash
 Copiar código
 https://github.com/AkiroSetonai/TODO-List.gits
