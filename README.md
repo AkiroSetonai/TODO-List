@@ -3,8 +3,8 @@
 Uma aplicação de lista TODO simples, desenvolvida com HTML, CSS e JavaScript, que permite criar, gerenciar e excluir tarefas de maneira intuitiva.</p>
 
 <h2>Funcionalidades</h2>
-Adicionar tarefas: Crie novas tarefas para manter o controle das atividades.
-Marcar como concluída: Marque as tarefas concluídas para melhor organização.
+Adicionar tarefas: Crie novas tarefas para manter o controle das atividades.<br>
+Marcar como concluída: Marque as tarefas concluídas para melhor organização.<br>
 Excluir tarefas: Remova tarefas desnecessárias ou concluídas.
 
 <h2>Tecnologias Utilizadas</h2>
