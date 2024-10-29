@@ -15,10 +15,11 @@ JavaScript: Funcionalidade para manipulação de tarefas.
 <h2>Como Usar</h2>
 <p>Clone o repositório.</p>
 Copiar código
+
 ```bash
 git clone https://github.com/AkiroSetonai/TODO-List.gits
 ```
-Abra o arquivo index.html em um navegador.
+<p>Abra o arquivo index.html em um navegador.</p>
 
 <h2>Contribuições</h2>
 Sinta-se à vontade para abrir issues e enviar pull requests para melhorias ou novas funcionalidades!
