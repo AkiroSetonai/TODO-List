@@ -17,7 +17,7 @@ JavaScript: Funcionalidade para manipulação de tarefas.
 Copiar código<br>
 
 ```bash
-git clone https://github.com/AkiroSetonai/TODO-List.gits
+git clone https://github.com/AkiroSetonai/TODO-List.git
 ```
 <p>Abra o arquivo index.html em um navegador.</p>
 
