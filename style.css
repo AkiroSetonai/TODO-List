@@ -71,10 +71,12 @@ body, .wrapper {
 
 
   .category-list {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
+    margin-bottom: 80px;
   }
   
   .category {
@@ -95,11 +97,12 @@ body, .wrapper {
   }
 
   .add-button {
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
-    top: 175px;
+    top: 120px;
     left: 40px;
     width: 168px;
     height: 31px;
@@ -116,6 +119,42 @@ body, .wrapper {
   .add-button:hover {
     background-color: #D4BEE4;
   }
+  .modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.4); 
+}
+
+.modal-content {
+  background-color: #354259; /* Cor de fundo do modal */
+  color: #E9C597; /* Texto branco */
+  margin: 15% auto; 
+  padding: 20px;
+  border-radius: 10px; /* Bordas arredondadas */
+  width: 300px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
   .top-right {
     grid-row: 1;
     grid-column: 2;
