@@ -132,13 +132,13 @@ body, .wrapper {
 }
 
 .modal-content {
-  background-color: #354259; /* Cor de fundo do modal */
-  color: #E9C597; /* Texto branco */
+  background-color: #354259; 
+  color: #E9C597; 
   margin: 15% auto; 
   padding: 20px;
-  border-radius: 10px; /* Bordas arredondadas */
+  border-radius: 10px; 
   width: 300px; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 .close {
