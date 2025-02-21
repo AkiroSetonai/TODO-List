@@ -15,7 +15,7 @@ JavaScript: Funcionalidade para manipulação de tarefas.
 <h2>Como Usar</h2>
 
 <p>Clone o repositório.</p>
-```bash
+```
 [git clone https://github.com/AkiroSetonai/TODO-List.git](https://github.com/AkiroSetonai/TODO-List.git)
 ```
 <p>Abra o arquivo index.html em um navegador.</p>
